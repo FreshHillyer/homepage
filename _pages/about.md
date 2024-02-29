@@ -49,5 +49,5 @@ My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huaz
 
 # 💻 Internships
 - *2019.05 - 2019.09*, ByteDance, Backend Development Intern, China.
-- *2022.04 - 2023.04*, Ant Group, Academic Intern, China.
-- *2023.05 - 2024.02 (now)*, BlockSec, Academic Intern, China.
+- *2022.04 - 2023.04*, Ant Group, Research Intern, China.
+- *2023.05 - 2024.02 (now)*, BlockSec, Research Intern, China.

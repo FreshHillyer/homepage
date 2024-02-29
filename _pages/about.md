@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology with a bachelor’s degree and from the Department of Computer Science and Technology. My research interest includes Android security, decentralized finance (DeFi) security and underground ecnomy security.
+
+
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 TDSC'23: Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps.
-- *2023.9*: &nbsp;🎉🎉 CCS'23: Towards Detecting and Understanding   Transaction-based Phishing on Ethereum.
+- *2023.09*: &nbsp;🎉🎉 CCS'23: Towards Detecting and Understanding   Transaction-based Phishing on Ethereum.
 - *2023.04*: &nbsp;🎉🎉 ISSTA'23: Detecting Underground Economy Apps Based on UTG Similarity.
 
 # 📝 Publications 
@@ -38,9 +41,6 @@ redirect_from:
   - Proceedings of the 2023 ACM SIGSOFT International Symposium on Software Testing and Analysis
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2020.06 - 2025.04 (now)*, Ph.D., Computer Science and Technology, Zhejiang University.

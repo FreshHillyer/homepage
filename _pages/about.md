@@ -40,8 +40,6 @@ My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huaz
   - **Zhuo Chen**, Jie Liu, Yubo Hu, Lei Wu, Yajin Zhou, Yiling He, Xianhao Liao, Ke Wang, Jinku Li, Zhan Qin 
   - Proceedings of the 2023 ACM SIGSOFT International Symposium on Software Testing and Analysis
 
-
-
 # 📖 Educations
 - *2020.06 - 2025.04 (now)*, Ph.D., Computer Science and Technology, Zhejiang University.
 - *2016.09 - 2020.06*, Bachelor's degree, Computer Science and Technology, Huazhong University of Science and Technology.
@@ -51,3 +49,9 @@ My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huaz
 - *2019.05 - 2019.09*, ByteDance, Backend Development Intern, China.
 - *2022.04 - 2023.04*, Ant Group, Research Intern, China.
 - *2023.05 - 2024.02 (now)*, BlockSec, Research Intern, China.
+
+# 📝 Blogs
+- *Android Crash*
+  - [Blog-1](https://zhuanlan.zhihu.com/p/262171214), [Blog-2](https://zhuanlan.zhihu.com/p/262509068), [Blog-3](https://zhuanlan.zhihu.com/p/264378448), [Blog-4](https://zhuanlan.zhihu.com/p/265519725)
+- *Android Tombstone Analysis*
+  - [Blog-1](https://zhuanlan.zhihu.com/p/196438927),[Blog-2](https://zhuanlan.zhihu.com/p/262509068)

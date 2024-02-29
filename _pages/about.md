@@ -17,42 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉 TDSC'23: Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps.
+- *2023.9*: &nbsp;🎉🎉 CCS'23: Towards Detecting and Understanding   Transaction-based Phishing on Ethereum.
+- *2023.04*: &nbsp;🎉🎉 ISSTA'23: Detecting Underground Economy Apps Based on UTG Similarity.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [TDSC'23] [Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps](https://www.computer.org/csdl/journal/tq/5555/01/10304303/1RIVkkCo9dm)
+  - **Zhuo Chen**, Lei Wu, Yubo Hu, Jing Cheng, Yufeng Hu, Yajin Zhou, Zhushou Tang, Yexuan Chen, Jinku Li, Kui Ren
+  - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [CCS'23] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf)
+  - Bowen He, Yuan Chen, **Zhuo Chen**, Xiaohui Hu, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
+  - Proceedings of the ACM Conference on Computer and Communications Security
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [ISSTA'23] [Detecting Underground Economy Apps Based on UTG Similarity](https://yajin.org/papers/issta23_DeUEDroid.pdf) 
+  - **Zhuo Chen**, Jie Liu, Yubo Hu, Lei Wu, Yajin Zhou, Yiling He, Xianhao Liao, Ke Wang, Jinku Li, Zhan Qin 
+  - Proceedings of the 2023 ACM SIGSOFT International Symposium on Software Testing and Analysis
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - 2025.04 (now)*, Ph.D., Computer Science and Technology, Zhejiang University.
+- *2016.09 - 2020.06*, Bachelor's degree, Computer Science and Technology, Huazhong University of Science and Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2019.09*, ByteDance, Backend Development Intern, China.
+- *2022.04 - 2023.04*, Ant Group, Academic Intern, China.
+- *2023.05 - 2024.02 (now)*, BlockSec, Academic Intern, China.

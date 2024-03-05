@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology with a bachelor’s degree and from the Department of Computer Science and Technology. My research interest includes Android security, decentralized finance (DeFi) security and underground ecnomy security.
+My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology (HUST) with a bachelor’s degree from the Department of Computer Science and Technology. My research interest includes Android security (malware detection), decentralized finance (DeFi) security (smart contract vulnerability detection), binary code similarity detection and underground ecnomy detection (anti money laundering).
 
 
 

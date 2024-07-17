@@ -17,17 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology (HUST) with a bachelor’s degree from the Department of Computer Science and Technology. My research interest includes Android security (malware detection), decentralized finance (DeFi) security (smart contract vulnerability detection), binary code similarity detection and underground ecnomy detection (anti money laundering).
+My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology (HUST) with a bachelor’s degree from the Department of Computer Science and Technology. My research interest includes AI-assisted static analysis, Android security (malware detection), decentralized finance (DeFi) security (smart contract vulnerability detection), and underground ecnomy detection (anti money laundering).
 
 
 
 # 🔥 News
+- *2024.7*: &nbsp;🎉🎉 TDSC'24: MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain.
 - *2023.10*: &nbsp;🎉🎉 TDSC'23: Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps.
 - *2023.09*: &nbsp;🎉🎉 CCS'23: Towards Detecting and Understanding   Transaction-based Phishing on Ethereum.
-- *2023.04*: &nbsp;🎉🎉 ISSTA'23: Detecting Underground Economy Apps Based on UTG Similarity.
 
 # 📝 Publications 
 
+- [TDSC'24] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]
+  - Yufeng Hu, Yingshi Sun, Yuan Chen, **Zhuo Chen**, Bowen He, Lei Wu, Yajin Zhou and Rui Chang
+  - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 - [TDSC'23] [Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps](https://www.computer.org/csdl/journal/tq/5555/01/10304303/1RIVkkCo9dm)
   - **Zhuo Chen**, Lei Wu, Yubo Hu, Jing Cheng, Yufeng Hu, Yajin Zhou, Zhushou Tang, Yexuan Chen, Jinku Li, Kui Ren
   - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)

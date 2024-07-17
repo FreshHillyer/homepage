@@ -28,7 +28,7 @@ My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huaz
 
 # 📝 Publications 
 
-- [TDSC'24] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]
+- [TDSC'24] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]()
   - Yufeng Hu, Yingshi Sun, Yuan Chen, **Zhuo Chen**, Bowen He, Lei Wu, Yajin Zhou and Rui Chang
   - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 - [TDSC'23] [Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps](https://www.computer.org/csdl/journal/tq/5555/01/10304303/1RIVkkCo9dm)

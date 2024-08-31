@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology (HUST) with a bachelor’s degree from the Department of Computer Science and Technology. My research interest includes AI-assisted static analysis, Android security (malware detection), decentralized finance (DeFi) security (smart contract vulnerability detection), and underground ecnomy detection (anti money laundering).
+My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology (HUST) with a bachelor’s degree from the Department of Computer Science and Technology. My doctoral supervisors are Pro. [Lei Wu](https://leiwu.org/) and Pro. [Yajin Zhou](http://yajin.org/).
+My research interest includes AI-assisted static analysis, Android security (malware detection), decentralized finance (DeFi) security (smart contract vulnerability detection), and underground ecnomy detection (anti money laundering).
 
 
 

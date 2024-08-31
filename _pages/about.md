@@ -22,21 +22,25 @@ My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huaz
 
 
 # 🔥 News
+- *2024.8*: &nbsp;🎉🎉 NDSS'245: Dissecting Payload-based Transaction Phishing on Ethereum.
 - *2024.7*: &nbsp;🎉🎉 TDSC'24: MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain.
 - *2023.10*: &nbsp;🎉🎉 TDSC'23: Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps.
 - *2023.09*: &nbsp;🎉🎉 CCS'23: Towards Detecting and Understanding   Transaction-based Phishing on Ethereum.
 
 # 📝 Publications 
 
+- [NDSS'25] [Dissecting Payload-based Transaction Phishing on Ethereum]()
+  - **Zhuo Chen**, Yufeng Hu, Bowen He, Dong Luo, Lei Wu, and Yajin Zhou
+  - Network and Distributed System Security (NDSS) Symposium
 - [TDSC'24] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]()
   - Yufeng Hu, Yingshi Sun, Yuan Chen, **Zhuo Chen**, Bowen He, Lei Wu, Yajin Zhou and Rui Chang
   - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 - [TDSC'23] [Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps](https://www.computer.org/csdl/journal/tq/5555/01/10304303/1RIVkkCo9dm)
-  - **Zhuo Chen**, Lei Wu, Yubo Hu, Jing Cheng, Yufeng Hu, Yajin Zhou, Zhushou Tang, Yexuan Chen, Jinku Li, Kui Ren
+  - **Zhuo Chen**, Lei Wu, Yubo Hu, Jing Cheng, Yufeng Hu, Yajin Zhou, Zhushou Tang, Yexuan Chen, Jinku Li and Kui Ren
   - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 
 - [CCS'23] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf)
-  - Bowen He, Yuan Chen, **Zhuo Chen**, Xiaohui Hu, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
+  - Bowen He, Yuan Chen, **Zhuo Chen**, Xiaohui Hu, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang and Yajin Zhou
   - Proceedings of the ACM Conference on Computer and Communications Security
 
 - [ISSTA'23] [Detecting Underground Economy Apps Based on UTG Similarity](https://yajin.org/papers/issta23_DeUEDroid.pdf) 

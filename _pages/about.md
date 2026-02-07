@@ -31,6 +31,8 @@ My research interest includes AI Inference Optimization, Android security, and b
 # 📝 Publications 
 
 ## Blockchain
+- [Processing] [Esim: EVM Bytecode Similarity Detection Based on Stable-Semantic Graph](https://arxiv.org/pdf/2511.12971)
+  - **Zhuo Chen**, Gaoqiang Ji, Yilin He, Lei Wu, and Yajin Zhou
 - [NDSS'25] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386)
   - **Zhuo Chen**, Yufeng Hu, Bowen He, Dong Luo, Lei Wu, and Yajin Zhou
   - Network and Distributed System Security (NDSS) Symposium
